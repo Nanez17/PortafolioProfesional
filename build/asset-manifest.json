@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portafolio/build/static/css/main.76e33b5d.css",
+    "main.js": "/portafolio/build/static/js/main.53aa09d7.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/portafolio/build/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/Cenfoteco-Kingdoms.jpg": "/portafolio/build/static/media/Cenfoteco-Kingdoms.aef89aac3c50e2240947.jpg",
+    "static/media/WizzEvent.jpg": "/portafolio/build/static/media/WizzEvent.24c263be338202c3e594.jpg",
+    "static/media/Novacentro backend.jpg": "/portafolio/build/static/media/Novacentro backend.fca9a1e1a8d2ed5174b9.jpg",
+    "static/media/Novacentro frontend.jpg": "/portafolio/build/static/media/Novacentro frontend.78e2873377d1dae1c8bb.jpg",
+    "static/media/favicon.ico.png": "/portafolio/build/static/media/favicon.ico.99adc7647ddcabd6bd0b.png",
+    "index.html": "/portafolio/build/index.html",
+    "main.76e33b5d.css.map": "/portafolio/build/static/css/main.76e33b5d.css.map",
+    "main.53aa09d7.js.map": "/portafolio/build/static/js/main.53aa09d7.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/portafolio/build/static/js/453.7d1ffe6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e33b5d.css",
+    "static/js/main.53aa09d7.js"
+  ]
+}
