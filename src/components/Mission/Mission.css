@@ -1,0 +1,28 @@
+.mission-section {
+    position: relative;
+    text-align: center;
+    padding: 80px 20px;
+    background-color: #E5E7EB;
+    color: #1E3A8A;
+    overflow: hidden;
+  }
+  
+  .mission-section h2 {
+    font-size: 2rem;
+  }
+  
+  .mission-section p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  .highlight {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.2s ease-out;
+  }
+  

@@ -1,0 +1,38 @@
+.about-section {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #E5E7EB;
+}
+
+.about-section h2 {
+  color: #1E3A8A;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.download-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #A3E635;
+  color: #1E3A8A;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #86c232;
+}
+
+.about-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 20px;
+}
+
+
+  

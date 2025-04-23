@@ -1,0 +1,78 @@
+.contact-section {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #ffffff; /* Fondo blanco */
+  color: #1E3A8A;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.input-group {
+  position: relative;
+  text-align: left;
+}
+
+.input-group label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group input,
+.input-group textarea {
+  width: 100%;
+  padding: 12px 40px 12px 12px;
+  border-radius: 8px;
+  border: 2px solid #1E3A8A;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.input-group input:focus,
+.input-group textarea:focus {
+  border-color: #A3E635;
+}
+
+.input-group .check {
+  position: absolute;
+  right: 12px;
+  top: 38px;
+  color: green;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.input-group.error input,
+.input-group.error textarea {
+  border-color: red;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+button {
+  padding: 12px;
+  background-color: #A3E635;
+  border: none;
+  border-radius: 8px;
+  color: #1E3A8A;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #86c232;
+}
